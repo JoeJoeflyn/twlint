@@ -1,0 +1,7 @@
+zig-out/
+.zig-cache/
+.omo/
+.twlint_cache
+*.swp
+node_modules/
+src/generated_registry.zig

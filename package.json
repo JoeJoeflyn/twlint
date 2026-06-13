@@ -1,0 +1,9 @@
+{
+  "name": "twlint",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "tailwindcss": "^4.1.0",
+    "@tailwindcss/node": "^4.1.0"
+  }
+}
